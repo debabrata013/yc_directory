@@ -9,3 +9,11 @@ A platform for entrepreneurs to submit startup ideas, browse pitches, and partic
 - User profiles showing submitted pitches
 - Editor Picks for highlighting top ideas
 - View counter for tracking pitch popularity
+
+## Tech Stack
+- Next.js 15
+- React 19
+- TypeScript
+- Tailwind CSS
+- Sanity CMS
+- GitHub Authentication
